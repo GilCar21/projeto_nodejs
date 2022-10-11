@@ -2,3 +2,4 @@
 /.vscode
 .eslintignore
 .eslintrc.json
+.env
