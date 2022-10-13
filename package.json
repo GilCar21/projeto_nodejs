@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "@types/bcrypt": "^5.0.0",
+    "@types/cors": "^2.8.12",
     "@types/mime": "^3.0.1",
     "aws-sdk": "^2.1230.0",
     "bcrypt": "^5.0.1",
     "class-transformer": "^0.5.1",
+    "cors": "^2.8.5",
     "csv-parse": "^5.2.0",
     "dayjs": "^1.11.4",
     "dotenv": "^16.0.3",
